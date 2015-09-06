@@ -1,1 +1,2 @@
-#Wiki\nThis is the first page of the wiki
+#Wiki
+This is the first page of the wiki
