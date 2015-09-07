@@ -25,10 +25,11 @@
 ##### **Mac OSX**
 - [**download**](#) - Currently unmaintained  
 
-Nighly builds do not update automatically at this stage of development, so make sure you get back to this site and regularly download the latest version of qTox.
+> **NOTE:**
+> Nighly builds do not update automatically at this stage of development, so make sure you get back to this site and regularly download the latest version of qTox.
 
 ### Screenshots
-> **NOTE**
+> **NOTE:** 
 > The screenshots may not always be up to date, but they should give a good idea of the general look and features.
 
 ![Screenshot 01](https://raw.githubusercontent.com/ToxClient/wiki/master/_static/clients/screenshots/qTox/screenshot_01.png)
