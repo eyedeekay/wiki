@@ -15,7 +15,7 @@ qTox [![Build Status](https://travis-ci.org/tux3/qTox.svg)](https://travis-ci.or
   - [**32 bit download**](https://build.tox.chat/view/Clients/job/qTox_build_linux_x86_release/lastSuccessfulBuild/artifact/qTox_build_linux_x86_release.tar.xz)
   - [**packages**](/INSTALL.md#simple-install)
   - [**Gentoo overlay**](https://github.com/Tox/gentoo-overlay-tox)
-* **Mac**: [**download**](#) - Currently unmaintained<br/>
+* **Mac**: [**download**](#) - Currently unmaintained  
 
 Nighly builds do not update automatically at this stage of development, so make sure you get back to this site and regularly download the latest version of qTox.
 
