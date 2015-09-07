@@ -1,8 +1,7 @@
 # Developing With Tox
 ## "C" Is For Core
 
-The core of Tox is written in C. Don't know a lick of C? Don't worry,
-that won't preclude you from using the Tox API.
+The core of Tox is written in C. Don't know a lick of C? Don't worry, that won't preclude you from using the Tox API.
 
 Tox has API wrappers in many languages, API bindings/wrappers are available
 for users of high-level languages so they too can use the Tox API. A
