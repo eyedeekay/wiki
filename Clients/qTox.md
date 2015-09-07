@@ -29,7 +29,6 @@ Nighly builds do not update automatically at this stage of development, so make 
 > The screenshots may not always be up to date, but they should give a good idea of the general look and features.
 
 ![Screenshot 01](https://raw.githubusercontent.com/ToxClient/wiki/master/_static/clients/screenshots/qTox/screenshot_01.png)
-![Screenshot 02](https://raw.githubusercontent.com/ToxClient/wiki/master/_static/clients/screenshots/qTox/screenshot_02.png)
 ![Screenshot 03](https://raw.githubusercontent.com/ToxClient/wiki/master/_static/clients/screenshots/qTox/screenshot_03.png)
 
 ### Features
