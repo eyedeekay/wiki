@@ -1,4 +1,5 @@
 # qTox - Qt powered client
+**qTox is a powerful Tox client that follows the Tox design guidelines while running on all major platforms.**
 
 ### Useful links
 - [**Compile**](https://github.com/tux3/qTox/blob/master/INSTALL.md)
@@ -9,8 +10,6 @@
 - [**Keyboard shortcuts**](https://github.com/tux3/qTox/wiki/Keyboard-shortcuts)
 - [**Mailing list**](https://lists.tox.chat)
 - **IRC Channel:** [#tox@freenode](https://webchat.freenode.net/?channels=tox)
-
-**qTox is a powerful Tox client that follows the Tox design guidelines while running on all major platforms.**
 
 ----
 
