@@ -4,7 +4,7 @@ Getting Started With The C API
 To start with a brief example of how a C client structure should look is
 given, followed by each important section explained in more detail
 
-~~~~ {.sourceCode .c}
+```c
 #define SLEEP_TIME 50000
 #define BOOTSTRAP_ADDRESS "23.226.230.47"
 #define BOOTSTRAP_PORT 33445
@@ -68,7 +68,7 @@ int main(int argc, const char *argv[]) {
     tox_kill(my_tox);
     return 0;
 }
-~~~~
+```
 
 Call Me [Back] Maybe
 --------------------
