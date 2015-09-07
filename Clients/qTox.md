@@ -22,7 +22,7 @@
 - [**packages**](/INSTALL.md#simple-install)
 - [**Gentoo overlay**](https://github.com/Tox/gentoo-overlay-tox)
 
-* **Mac OSX**
+##### **Mac OSX**
 - [**download**](#) - Currently unmaintained  
 
 Nighly builds do not update automatically at this stage of development, so make sure you get back to this site and regularly download the latest version of qTox.
