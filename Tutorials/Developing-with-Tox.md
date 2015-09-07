@@ -12,15 +12,12 @@ Tox has API wrappers in many languages, API bindings/wrappers are available for 
 -   [libtoxcore-racket](https://github.com/lehitoskin/libtoxcore-racket) *(Racket)*
 -   [rstox](https://github.com/suhr/rstox/) *(Rust)*
 
-> **warning**
->
-> These may not be 1-1 wrappers of API functions. You should read the
-> documentation of your chosen wrapper for usage details.
+> `WARNING`  
+> These may not be 1-1 wrappers of API functions. You should read the documentation of your chosen wrapper for usage details.
 
 ## Getting started in C
 
-It's often easier to get to know the API in C to better understand it
-without wrapper abstractions.
+It's often easier to get to know the API in C to better understand it without wrapper abstractions.
 
 ## Outdated wrappers
 
