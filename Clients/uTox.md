@@ -7,11 +7,14 @@
 - [BUILD.md](https://github.com/notsecure/uTox/blob/master/docs/BUILD.md)
 
 ### Download links
-* **Windows**
-  - [**32 bits download**](https://github.com/notsecure/utox-update/releases/download/latest/utox_runner.zip)
-* **Linux**
-  - [**packages**](https://wiki.tox.chat/binaries#gnulinux)
-* **Mac OSX**: [**download**](https://zodiaclabs.org/storage/c1/uTox-0.3.2.dmg)
+##### **Windows**
+- [**32 bits download**](https://github.com/notsecure/utox-update/releases/download/latest/utox_runner.zip)
+
+##### **Linux**
+- [**packages**](https://wiki.tox.chat/binaries#gnulinux)
+
+##### **Mac OSX**
+- [**download**](https://zodiaclabs.org/storage/c1/uTox-0.3.2.dmg)
 
 ### Screenshots
 > **NOTE**
