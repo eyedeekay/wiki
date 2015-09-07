@@ -2,19 +2,18 @@
 **Toxic is a [Tox](https://tox.chat)-based instant messenging client which formerly resided in the [Tox core repository](https://github.com/irungentoo/toxcore).**
 
 ### Useful links
-- [Up to date download links on utox.org](http://utox.org)
+- [GitHub Repository](https://github.com/Tox/toxic)
 - [INSTALL.md](https://github.com/Tox/toxic/blob/master/INSTALL.md)
-- [BUILD.md](https://github.com/notsecure/uTox/blob/master/docs/BUILD.md)
 
 ### Download links
-##### **Windows**
-- [**32 bits download**](https://github.com/notsecure/utox-update/releases/download/latest/utox_runner.zip)
-
 ##### **Linux**
-- [**packages**](https://wiki.tox.chat/binaries#gnulinux)
+- [**32 bits download**](https://build.tox.chat/view/Clients/job/toxic_build_linux_x86_release/lastSuccessfulBuild/artifact/toxic_build_linux_x86_release.tar.xz)
+- [**32 bits download (no X11)**](https://build.tox.chat/view/Clients/job/toxic-no-x11_build_linux_x86_release/lastSuccessfulBuild/artifact/toxic-no-x11_build_linux_x86_release.tar.xz)
+- [**64 bits download**](https://build.tox.chat/view/Clients/job/toxic_build_linux_x86-64_release/lastSuccessfulBuild/artifact/toxic_build_linux_x86-64_release.tar.xz)
+- [**64 bits download (no X11)**](https://build.tox.chat/view/Clients/job/toxic-no-x11_build_linux_x86-64_release/lastSuccessfulBuild/artifact/toxic-no-x11_build_linux_x86-64_release.tar.xz)
 
-##### **Mac OSX**
-- [**download**](https://zodiaclabs.org/storage/c1/uTox-0.3.2.dmg)
+##### **FreeBSD**
+- [**Generic download**](https://www.freshports.org/net-im/toxic)
 
 ### Screenshots
 > **NOTE:**

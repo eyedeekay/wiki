@@ -2,6 +2,7 @@
 **qTox is a powerful Tox client that follows the Tox design guidelines while running on all major platforms.**
 
 ### Useful links
+- [GitHub Repository](https://github.com/tux3/qTox)
 - [**Compile**](https://github.com/tux3/qTox/blob/master/INSTALL.md)
 - [**Contribute**](https://github.com/tux3/qTox/wiki#contributing)
 - [**Report bugs**](https://github.com/tux3/qTox/wiki/Writing-Useful-Bug-Reports)
@@ -29,7 +30,7 @@
 > Nighly builds do not update automatically at this stage of development, so make sure you get back to this site and regularly download the latest version of qTox.
 
 ### Screenshots
-> **NOTE:** 
+> **NOTE:**
 > The screenshots may not always be up to date, but they should give a good idea of the general look and features.
 
 ![Screenshot 01](https://raw.githubusercontent.com/ToxClient/wiki/master/_static/clients/screenshots/qTox/screenshot_01.png)
