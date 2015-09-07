@@ -71,7 +71,7 @@ given, followed by each important section explained in more detail
 Call Me [Back] Maybe
 --------------------
 
-![](_static/tox_loop.png)
+![](https://raw.githubusercontent.com/ToxClient/wiki/master/_static/tox_loop.png)
 
 When important events happen on the Tox connection, tox\_iterate will
 invoke callbacks that you specify with the following API functions.
@@ -121,8 +121,7 @@ Lastly, a user can also have a status message which is a string
 Getting Into The Network
 ------------------------
 
-> **note**
->
+> `NOTE`
 > You should read core\_concepts/up-by-the-bootstraps to learn more
 > about bootstrapping.
 
