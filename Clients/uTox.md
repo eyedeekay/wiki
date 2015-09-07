@@ -11,23 +11,6 @@
         <li><a href="https://github.com/notsecure/uTox/blob/master/docs/INSTALL.md">INSTALL.md</a></li>
         <li><a href="https://github.com/notsecure/uTox/blob/master/docs/BUILD.md">BUILD.md</a></li>
       </ul>
-
-### Download links
-##### **Windows**
-- [**32/64 bits download**](https://github.com/notsecure/utox-update/releases/download/latest/utox_runner.zip)
-- [**32 bits download (no updater)**](https://build.tox.chat/view/Clients/job/uTox_build_windows_x86_release/lastSuccessfulBuild/artifact/utox_windows_x86.zip)
-- [**64 bits download (no updater)**](https://build.tox.chat/view/Clients/job/uTox_build_windows_x86-64_release/lastSuccessfulBuild/artifact/utox_windows_x86-64.zip)
-
-##### **Linux**
-- [**32 bits download**](https://build.tox.chat/view/Clients/job/uTox_build_linux_x86_release/lastSuccessfulBuild/artifact/utox_linux_x86.tar.xz)
-- [**64 bits download**](https://build.tox.chat/view/Clients/job/uTox_build_linux_x86-64_release/lastSuccessfulBuild/artifact/utox_linux_x86-64.tar.xz)
-- [**packages**](https://wiki.tox.chat/binaries#gnulinux)
-
-##### **Mac OSX**
-- [**64 bits (OS X 10.7+)**](https://zodiaclabs.org/storage/c1/uTox-0.3.2.dmg)
-
-##### **FreeBSD**
-- [**Generic download**](https://www.freshports.org/net-im/uTox)
     </div>
     <div class="col-xs-12 col-md-7" markdown="1">
 ### Screenshots
