@@ -3,7 +3,7 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-xs-6 col-md-3" markdown="1">
+    <div class="col-xs-6 col-md-4" markdown="1">
 ### Useful links
 - [GitHub Repository](https://github.com/notsecure/uTox)
 - [Up to date download links on utox.org](http://utox.org)
@@ -27,7 +27,7 @@
 ##### **FreeBSD**
 - [**Generic download**](https://www.freshports.org/net-im/uTox)
     </div>
-    <div class="col-xs-12 col-md-9" markdown="1">
+    <div class="col-xs-12 col-md-8" markdown="1">
 ### Screenshots
 > **NOTE:**
 > The screenshots may not always be up to date, but they should give a good idea of the general look and features.
