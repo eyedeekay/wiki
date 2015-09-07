@@ -23,8 +23,8 @@
 - [**packages**](/INSTALL.md#simple-install)
 - [**Gentoo overlay**](https://github.com/Tox/gentoo-overlay-tox)
 
-##### **Mac OSX**
-- [**download**](#) - Currently unmaintained  
+##### **FreeBSD**
+- [**Generic download**](https://www.freshports.org/net-im/qtox)
 
 > **NOTE:**
 > Nighly builds do not update automatically at this stage of development, so make sure you get back to this site and regularly download the latest version of qTox.
