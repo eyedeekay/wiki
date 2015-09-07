@@ -27,29 +27,21 @@ project:
 For users
 ---------
 
-Tox is currently in Alpha and we hope you report any bugs you may see.
-
+Tox is currently in Alpha and we hope you report any bugs you may see.  
 You can download a Tox client [here](https://wiki.tox.im/Binaries), or
-you can learn how to compile one below.
-
-Find a bug? Report it [here](https://support.tox.im)
-
-Need help with Tox? Send an email to <support@tox.im>
-
-Want to give us feedback? Send an email to <comments@tox.im>
+you can learn how to compile one below.  
+Find a bug? Report it [here](https://support.tox.im)  
+Need help with Tox? Send an email to <support@tox.im>  
+Want to give us feedback? Send an email to <comments@tox.im>  
 
 For developers
 --------------
 
-[Compiling Tox for the first time](compiling.html)
-
-[Developing your first client](dev.html)
-
-Security considerations with committing (And more on PGP)
-
-[How Jenkins and our nightly builds work](jenkins.html)
-
-[Technical report](https://tox.im/tox.pdf) (Unfinished)
+- [Compiling Tox for the first time](compiling.html)
+- [Developing your first client](dev.html)
+- Security considerations with committing (And more on PGP)
+- [How Jenkins and our nightly builds work](jenkins.html)
+- [Technical report](https://tox.im/tox.pdf) (Unfinished)
 
 API reference
 -------------
