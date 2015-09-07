@@ -11,8 +11,7 @@
 - [**Mailing list**](https://lists.tox.chat)
 - **IRC Channel:** [#tox@freenode](https://webchat.freenode.net/?channels=tox)
 
-----
-
+### Download links
 * **Windows**:
   - [**64 bit download**](https://build.tox.chat/view/Clients/job/qTox_build_windows_x86-64_release/lastSuccessfulBuild/artifact/qTox_build_windows_x86-64_release.zip)
   - [**32 bit download** (for older hardware)](https://build.tox.chat/view/Clients/job/qTox_build_windows_x86_release/lastSuccessfulBuild/artifact/qTox_build_windows_x86_release.zip)
@@ -25,17 +24,14 @@
 
 Nighly builds do not update automatically at this stage of development, so make sure you get back to this site and regularly download the latest version of qTox.
 
-
-#### Screenshots
-Note: The screenshots may not always be up to date, but they should give a good idea of the general look and features.
-
+### Screenshots
+> **NOTE**
+> The screenshots may not always be up to date, but they should give a good idea of the general look and features.
 
 ![Screenshot 01](https://i.imgur.com/hwGmDeK.png)
 ![Screenshot 02](https://i.imgur.com/tmX8z9s.png)
 
-
-#### Features
-
+### Features
 - One to one chat with friends
 - Group chats
 - File transfers, with previewing of images

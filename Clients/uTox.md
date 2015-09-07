@@ -6,17 +6,9 @@
 - [INSTALL.md](https://github.com/notsecure/uTox/blob/master/docs/INSTALL.md)
 - [BUILD.md](https://github.com/notsecure/uTox/blob/master/docs/BUILD.md)
 
-* Some things are incomplete and there may be some bugs: feel free to make issues/suggestions
-* Xlib support is mostly complete, but may have some small bugs (no right click menus, lags)
-* Android support is experimental, it lacks important features (accepting/creating file transfers, sending inline images, video)
-* Cocoa (OS X without XQuartz) support is also experimental. Please see [the notes](docs/COCOA.md) before building.
-
 ## Screenshots
-
-μTox running on Windows 8
+> **NOTE**
+> The screenshots may not always be up to date, but they should give a good idea of the general look and features.
 
 ![μTox on Win32](https://raw.github.com/notsecure/uTox/master/images/uTox-win32.png "μTox running on Windows 8")
-
-μTox running on lubuntu:
-
 ![μTox on *nix](https://raw.github.com/notsecure/uTox/master/images/uTox-xlib.png "μTox running on lubuntu")
