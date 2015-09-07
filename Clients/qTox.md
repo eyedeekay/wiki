@@ -28,8 +28,9 @@ Nighly builds do not update automatically at this stage of development, so make 
 > **NOTE**
 > The screenshots may not always be up to date, but they should give a good idea of the general look and features.
 
-![Screenshot 01](https://i.imgur.com/hwGmDeK.png)
-![Screenshot 02](https://i.imgur.com/tmX8z9s.png)
+![Screenshot 01](https://raw.githubusercontent.com/ToxClient/wiki/master/_static/clients/screenshots/screenshot_01.png)
+![Screenshot 02](https://raw.githubusercontent.com/ToxClient/wiki/master/_static/clients/screenshots/screenshot_02.png)
+![Screenshot 03](https://raw.githubusercontent.com/ToxClient/wiki/master/_static/clients/screenshots/screenshot_03.png)
 
 ### Features
 - One to one chat with friends
