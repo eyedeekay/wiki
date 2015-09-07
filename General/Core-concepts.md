@@ -1,11 +1,11 @@
 # Core concepts
 ## The Tox ID
 
-![](_static/public_key.png)
+![](/static/images/public_key.png)
 
 This is a typical Tox ID that you currently give out to friends. It is a public key, nospam value, and checksum concatenated in hexadecimal format. The result is the 76-character string shown above.
 
-![](_static/public_key_bd.png)
+![](/static/images/public_key_bd.png)
 
 (*The three parts of the a Tox ID.*)
 
