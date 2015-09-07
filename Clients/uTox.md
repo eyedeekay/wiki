@@ -4,11 +4,13 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-xs-6 col-md-4" markdown="1">
-### Useful links
-- [GitHub Repository](https://github.com/notsecure/uTox)
-- [Up to date download links on utox.org](http://utox.org)
-- [INSTALL.md](https://github.com/notsecure/uTox/blob/master/docs/INSTALL.md)
-- [BUILD.md](https://github.com/notsecure/uTox/blob/master/docs/BUILD.md)
+      <h3>Useful links</h3>
+      <ul>
+        <li><a href="https://github.com/notsecure/uTox">GitHub Repository</a></li>
+        <li><a href="http://utox.org">Up to date download links on utox.org</a></li>
+        <li><a href="https://github.com/notsecure/uTox/blob/master/docs/INSTALL.md">INSTALL.md</a></li>
+        <li><a href="https://github.com/notsecure/uTox/blob/master/docs/BUILD.md">BUILD.md</a></li>
+      </ul>
 
 ### Download links
 ##### **Windows**
