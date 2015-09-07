@@ -3,7 +3,7 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-xs-6 col-md-3" markdown="1">
+    <div class="col-xs-6 col-md-4" markdown="1">
       <h3>Useful links</h3>
       <ul>
         <li><a href="https://github.com/notsecure/uTox">GitHub Repository</a></li>
@@ -11,8 +11,16 @@
         <li><a href="https://github.com/notsecure/uTox/blob/master/docs/INSTALL.md">INSTALL.md</a></li>
         <li><a href="https://github.com/notsecure/uTox/blob/master/docs/BUILD.md">BUILD.md</a></li>
       </ul>
+
+      <h3>Download links</h3>
+      <h5>Windows</h5>
+      <ul>
+        <li><a href="https://github.com/notsecure/utox-update/releases/download/latest/utox_runner.zip">32/64 bits download</a></li>
+        <li><a href="https://build.tox.chat/view/Clients/job/uTox_build_windows_x86_release/lastSuccessfulBuild/artifact/utox_windows_x86.zip">32 bits download</a></li>
+        <li><a href="https://build.tox.chat/view/Clients/job/uTox_build_windows_x86-64_release/lastSuccessfulBuild/artifact/utox_windows_x86-64.zip">64 bits download</a></li>
+      </ul>
     </div>
-    <div class="col-xs-12 col-md-9" markdown="1">
+    <div class="col-xs-12 col-md-8" markdown="1">
       <h3>Screenshots</h3>
       <blockquote><b>NOTE:</b> The screenshots may not always be up to date, but they should give a good idea of the general look and features.</blockquote>
 
