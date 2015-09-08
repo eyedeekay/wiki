@@ -32,11 +32,12 @@
 ![μTox on *nix](https://raw.github.com/notsecure/uTox/master/images/uTox-xlib.png "μTox running on lubuntu")
 
 ### Features
--
--
--
--
--
--
--
--
+- One to one chat with friends
+- Group chats
+- File transfers
+- Audio calls, including group calls
+- Video calls
+- Tox DNS and Tox URI support
+- Translations in various languages
+- Avatars
+- Screenshots
