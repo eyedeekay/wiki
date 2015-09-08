@@ -1,5 +1,5 @@
-# XWinTox
-**Toxic is a radical new [Tox](https://tox.chat)-based client built with extensibility and configurability in mind.**
+# XwinTox
+**XwinTox is a radical new [Tox](https://tox.chat)-based client built with extensibility and configurability in mind.**
 
 ### Useful links
 - [GitHub Repository](https://github.com/JX7P/XwinTox)
