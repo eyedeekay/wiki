@@ -20,8 +20,3 @@
 - Group chats
 - File transfers
 - Tox DNS
--
--
--
--
--
