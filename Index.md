@@ -54,5 +54,6 @@ Edit this site
 --------------
 
 This site is open source and open for contributions.
+
 - [The content is here](https://github.com/ValaTox/wiki).
 - [The source code is here](https://github.com/SkyzohKeyx/tox-wiki).
