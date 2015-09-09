@@ -35,8 +35,7 @@ The Tox core handles this in one of two ways:
 -   Automatically bootstrapping to a Tox client that it finds on the LAN, and
 -   Bootstrapping to a known peer that your code provides.
 
-> **note**
->
+> **NOTE** 
 > If you would like that data in a more machine-friendly format, an
 > unofficial JSON list is available
 > [here](https://dist-build.tox.im/Nodefile.json), updated hourly from
